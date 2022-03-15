@@ -1,0 +1,15 @@
+.container {
+    margin: 0 auto;
+    padding: 20px;
+}
+.m-tb-50 {
+    margin: 50px 0;
+}
+.MuiDataGrid-columnHeaderCheckbox, 
+.MuiDataGrid-cellCheckbox
+{
+    display: none !important;
+}
+.book-title {
+    height: 250px;
+}
